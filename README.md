@@ -1,0 +1,1 @@
+# teste-licenca-bsd
